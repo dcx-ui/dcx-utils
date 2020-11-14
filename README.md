@@ -14,3 +14,5 @@ are:
 [Adjusting your Django App to suuport DCX-UI]()
 
 ## Disclaimer 
+
+**DO NOT USE THIS VERSION IN PRODUCTION IT STILL NOT STABLE.**
